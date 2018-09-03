@@ -1,0 +1,1 @@
+<?php $user  = 'admin';$pass = 'hello@2';$svnm = 'localhost';$un = 'db_user';$pd = 'abcdef';$db = 'project'; ?>
